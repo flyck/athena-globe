@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Tokyo",
+    "longitude": 139.7674,
+    "latitude": 35.6895
+  },
+  {
+    "name": "Seoul",
+    "longitude": 126.9779,
+    "latitude": 37.5665
+  },
+  {
+    "name": "Beijing",
+    "longitude": 116.4074,
+    "latitude": 39.9042
+  },
+  {
+    "name": "Shanghai",
+    "longitude": 121.4737,
+    "latitude": 31.2304
+  },
+  {
+    "name": "Mumbai",
+    "longitude": 72.8356,
+    "latitude": 18.9750
+  },
+  {
+    "name": "Bangkok",
+    "longitude": 100.4937,
+    "latitude": 13.7563
+  },
+  {
+    "name": "Hong Kong",
+    "longitude": 114.1694,
+    "latitude": 22.2794
+  },
+  {
+    "name": "Singapore",
+    "longitude": 103.8518,
+    "latitude": 1.3521
+  },
+  {
+    "name": "Kuala Lumpur",
+    "longitude": 101.6939,
+    "latitude": 3.1458
+  },
+  {
+    "name": "Jakarta",
+    "longitude": 106.8270,
+    "latitude": -6.2142
+  },
+  {
+    "name": "London",
+    "longitude": -0.1278,
+    "latitude": 51.5074
+  },
+  {
+    "name": "Paris",
+    "longitude": 2.3522,
+    "latitude": 48.8567
+  },
+  {
+    "name": "Berlin",
+    "longitude": 13.4050,
+    "latitude": 52.5200
+  },
+  {
+    "name": "Rome",
+    "longitude": 12.4964,
+    "latitude": 41.8719
+  },
+  {
+    "name": "Madrid",
+    "longitude": -3.7038,
+    "latitude": 40.4168
+  },
+  {
+    "name": "Amsterdam",
+    "longitude": 4.8940,
+    "latitude": 52.3702
+  },
+  {
+    "name": "Moscow",
+    "longitude": 37.6173,
+    "latitude": 55.7558
+  },
+  {
+    "name": "Istanbul",
+    "longitude": 28.9744,
+    "latitude": 41.0082
+  },
+  {
+    "name": "Athens",
+    "longitude": 23.7271,
+    "latitude": 37.9761
+  },
+  {
+    "name": "Stockholm",
+    "longitude": 18.0736,
+    "latitude": 59.3293
+  },
+  {
+    "name": "New York City",
+    "longitude": -74.0060,
+    "latitude": 40.7128
+  },
+  {
+    "name": "Los Angeles",
+    "longitude": -118.2437,
+    "latitude": 34.0522
+  },
+  {
+    "name": "Chicago",
+    "longitude": -87.6298,
+    "latitude": 41.8781
+  },
+  {
+    "name": "Toronto",
+    "longitude": -79.3832,
+    "latitude": 43.6532
+  },
+  {
+    "name": "Mexico City",
+    "longitude": -99.1332,
+    "latitude": 19.4326
+  },
+  {
+    "name": "Montreal",
+    "longitude": -73.5673,
+    "latitude": 45.5088
+  },
+  {
+    "name": "Vancouver",
+    "longitude": -123.1175,
+    "latitude": 49.2490
+  },
+  {
+    "name": "Houston",
+    "longitude": -95.3632,
+    "latitude": 29.7633
+  },
+  {
+    "name": "Phoenix",
+    "longitude": -112.0740,
+    "latitude": 33.4484
+  },
+  {
+    "name": "Miami",
+    "longitude": -80.1918,
+    "latitude": 25.7617
+  },
+  {
+    "name": "Rio de Janeiro",
+    "longitude": -43.1729,
+    "latitude": -22.9068
+  },
+  {
+    "name": "São Paulo",
+    "longitude": -46.6369,
+    "latitude": -23.5505
+  },
+  {
+    "name": "Buenos Aires",
+    "longitude": -58.3816,
+    "latitude": -34.6037
+  },
+  {
+    "name": "Lima",
+    "longitude": -77.0428,
+    "latitude": -12.0659
+  },
+  {
+    "name": "Santiago",
+    "longitude": -70.6693,
+    "latitude": -33.4489
+  },
+  {
+    "name": "Bogotá",
+    "longitude": -74.0631,
+    "latitude": 4.6047
+  },
+  {
+    "name": "Brasília",
+    "longitude": -47.8825,
+    "latitude": -15.7942
+  },
+  {
+    "name": "Quito",
+    "longitude": -78.5000,
+    "latitude": -0.2167
+  },
+  {
+    "name": "Montevideo",
+    "longitude": -56.1667,
+    "latitude": -34.8583
+  },
+  {
+    "name": "Caracas",
+    "longitude": -66.8667,
+    "latitude": 10.4917
+  },
+  {
+    "name": "Cairo",
+    "longitude": 31.2500,
+    "latitude": 30.0500
+  },
+  {
+    "name": "Lagos",
+    "longitude": 3.3942,
+    "latitude": 6.4556
+  },
+  {
+    "name": "Johannesburg",
+    "longitude": 28.0456,
+    "latitude": -26.2041
+  },
+  {
+    "name": "Nairobi",
+    "longitude": 36.8214,
+    "latitude": 1.2881
+  },
+  {
+    "name": "Cape Town",
+    "longitude": 18.4241,
+    "latitude": -33.9247
+  },
+  {
+    "name": "Accra",
+    "longitude": -0.2167,
+    "latitude": 5.5500
+  },
+  {
+    "name": "Addis Ababa",
+    "longitude": 38.7461,
+    "latitude": 9.0194
+  },
+  {
+    "name": "Dar es Salaam",
+    "longitude": 39.2833,
+    "latitude": -6.8167
+  },
+  {
+    "name": "Kinshasa",
+    "longitude": 15.2833,
+    "latitude": -4.3167
+  },
+  {
+    "name": "Abidjan",
+    "longitude": -4.0333,
+    "latitude": 5.3000
+  },
+  {
+    "name": "Sydney",
+    "longitude": 151.2069,
+    "latitude": -33.8651
+  },
+  {
+    "name": "Melbourne",
+    "longitude": 144.9631,
+    "latitude": -37.8136
+  },
+  {
+    "name": "Brisbane",
+    "longitude": 153.0251,
+    "latitude": -27.4698
+  },
+  {
+    "name": "Perth",
+    "longitude": 115.8613,
+    "latitude": -31.9508
+  }
+]
