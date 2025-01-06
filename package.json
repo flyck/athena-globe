@@ -1,0 +1,21 @@
+{
+  "name": "athena-globe",
+  "version": "1.0.0",
+  "description": "display geodata from athena on a 3d globe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pulumi/aws": "^6.66.2",
+    "@pulumi/pulumi": "^3.144.1",
+    "biome": "^0.3.3",
+    "prettier": "^3.4.2",
+    "sst": "3.4.54"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.147"
+  }
+}
